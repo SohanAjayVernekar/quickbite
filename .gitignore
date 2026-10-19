@@ -1,0 +1,26 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.dart_tool/
+build/
+frontend/android/local.properties
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/flutter_export_environment.sh
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+*.iml
+*.jks
+*.keystore
+.idea/
+.DS_Store
+docs/evidence/runs/
+
+# Local build/scratch artifacts (not referenced by the app)
+frontend/assets/images/generated.zip
+frontend/assets/models/.*.z*
+*.log

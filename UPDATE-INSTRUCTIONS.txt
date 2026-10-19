@@ -1,0 +1,5 @@
+QuickBite cuisine carousel update
+
+Copy frontend/lib/core/widgets/delight.dart from this package into the same path in your project, replacing the existing file.
+
+This update adds visible left and right arrows to the horizontal cuisine row.

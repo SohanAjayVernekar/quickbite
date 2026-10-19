@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fff9f3">
+  <meta name="description" content="QuickBite — discover great kitchens, order your favourites, and follow every step.">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="manifest" href="manifest.json">
+  <title>QuickBite · Find your flavour</title>
+  <style>
+    html,body{background:#fff9f3;margin:0;color:#29251f;font-family:system-ui}
+    #loading{min-height:100vh;display:grid;place-content:center;text-align:center;background:radial-gradient(ellipse at 50% 80%,#ff5b2614,transparent 55%)}
+    #loading b{font:800 44px system-ui;color:#b94119;letter-spacing:-2px;text-shadow:none}
+    #loading p{color:#6e6258}
+    #loading::after{content:'';width:44px;height:3px;background:#b94119;border-radius:8px;margin:18px auto;box-shadow:none;animation:ember 1.8s ease-in-out infinite}
+    @keyframes ember{50%{opacity:.35;transform:scaleX(.55)}}
+    @media(prefers-reduced-motion:reduce){#loading::after{animation:none}}
+    noscript{display:block;padding:40px}
+  </style>
+</head>
+<body>
+  <div id="loading" role="status"><b>QuickBite</b><p>A little joy is on its way…</p></div>
+  <noscript>Enable JavaScript to use QuickBite.</noscript>
+  <script>window.addEventListener('flutter-first-frame',()=>document.getElementById('loading')?.remove());</script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+QuickBite catalog, admin and demo-order update
+
+This update contains:
+- Admin creation, availability toggles and safe deletion for restaurants and menu dishes.
+- Name-aware dish artwork for new dish names, with existing exact dish photos/art preserved.
+- Admin order management and the previously added restaurant/dish infinite scrolling and pagination.
+- A repeatable demo seed that fills missing historical order IDs up to 200.
+- Updated startup scripts and instructions.
+
+Extract this archive into the QuickBite project root and allow it to replace matching files. Paths are project-relative. The normal scripts/start.sh startup rebuilds the app, seeds missing demo catalog data and fills demo orders up to 200. Historical order references are preserved; catalog records used by orders must be marked unavailable instead of deleted.
+
+No tests were run, as requested.

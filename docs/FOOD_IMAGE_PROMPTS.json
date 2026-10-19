@@ -1,0 +1,816 @@
+{
+  "mode": "built-in image generator",
+  "created": "2026-10-17",
+  "recipes": [
+    {
+      "name": "Paneer Dum Biryani",
+      "file": "frontend/assets/images/dish-paneer-dum-biryani.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one food-delivery menu photograph. Primary request: a beautiful appetizing authentic Paneer Dum Biryani, saffron basmati rice with visible grilled paneer cubes, mint and fried onions, in one white ceramic bowl. Vegetarian, no meat. Style: premium natural food photography, warm ivory background, soft daylight, realistic textures and fresh garnish, no text, no watermark, no logo. Composition: square image, slightly elevated three-quarter view, entire bowl visible with generous 12 percent margin, main food fills central 70 percent. The output is a project asset for the QuickBite food app. Save a local file if supported."
+    },
+    {
+      "name": "Butter Chicken & Rice",
+      "file": "frontend/assets/images/dish-butter-chicken-rice.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Butter Chicken & Rice. Authentic Indian dish. Details: Tandoori chicken in a mellow tomato butter sauce..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Dal Makhani Bowl",
+      "file": "frontend/assets/images/dish-dal-makhani-bowl.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Dal Makhani Bowl. Authentic Indian dish. Details: Slow-simmered black lentils, cream and steamed rice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chole & Jeera Rice",
+      "file": "frontend/assets/images/dish-chole-jeera-rice.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chole & Jeera Rice. Authentic Indian dish. Details: Spiced chickpeas with fragrant cumin rice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Vegetable Pulao",
+      "file": "frontend/assets/images/dish-vegetable-pulao.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Vegetable Pulao. Authentic Indian dish. Details: Seasonal vegetables and whole-spice basmati.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Hyderabadi Chicken Biryani",
+      "file": "frontend/assets/images/dish-hyderabadi-chicken-biryani.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Hyderabadi Chicken Biryani. Authentic Indian dish. Details: Layered chicken and basmati with raita..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Classic Margherita",
+      "file": "frontend/assets/images/dish-classic-margherita.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Classic Margherita. Authentic Italian dish. Details: Tomato, mozzarella and fresh basil.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Roasted Vegetable Pizza",
+      "file": "frontend/assets/images/dish-roasted-vegetable-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Roasted Vegetable Pizza. Authentic Italian dish. Details: Peppers, courgette, olives and mozzarella.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Pesto Pizza",
+      "file": "frontend/assets/images/dish-chicken-pesto-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Pesto Pizza. Authentic Italian dish. Details: Roast chicken, basil pesto and mozzarella..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "file": "frontend/assets/images/dish-four-cheese-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Four Cheese Pizza. Authentic Italian dish. Details: Mozzarella, cheddar, parmesan-style vegetarian cheese and ricotta.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Truffle Pizza",
+      "file": "frontend/assets/images/dish-mushroom-truffle-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Truffle Pizza. Authentic Italian dish. Details: Roasted mushrooms with a fragrant truffle finish.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Spicy Corn Pizza",
+      "file": "frontend/assets/images/dish-spicy-corn-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Spicy Corn Pizza. Authentic Italian dish. Details: Sweet corn, jalapeno and chilli tomato sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Crispy Paneer Burger",
+      "file": "frontend/assets/images/dish-crispy-paneer-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Crispy Paneer Burger. Authentic Burgers dish. Details: Golden paneer, crunchy lettuce and house sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Smoky Garden Burger",
+      "file": "frontend/assets/images/dish-smoky-garden-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Smoky Garden Burger. Authentic Burgers dish. Details: Smoked vegetable patty, tomato and pickles.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Double Cheese Chicken Burger",
+      "file": "frontend/assets/images/dish-double-cheese-chicken-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Double Cheese Chicken Burger. Authentic Burgers dish. Details: Grilled chicken, cheddar and caramelised onions..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Swiss Burger",
+      "file": "frontend/assets/images/dish-mushroom-swiss-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Swiss Burger. Authentic Burgers dish. Details: Mushrooms, vegetarian Swiss-style cheese and mustard.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Spicy Chickpea Burger",
+      "file": "frontend/assets/images/dish-spicy-chickpea-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Spicy Chickpea Burger. Authentic Burgers dish. Details: Chickpea patty, slaw and chilli mayo.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "BBQ Chicken Burger",
+      "file": "frontend/assets/images/dish-bbq-chicken-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: BBQ Chicken Burger. Authentic Burgers dish. Details: Barbecue chicken, onion rings and pickles..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Sesame Vegetable Noodles",
+      "file": "frontend/assets/images/dish-sesame-vegetable-noodles.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Sesame Vegetable Noodles. Authentic Asian dish. Details: Wok-tossed noodles, crunchy vegetables and sesame.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chilli Garlic Noodles",
+      "file": "frontend/assets/images/dish-chilli-garlic-noodles.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chilli Garlic Noodles. Authentic Asian dish. Details: Roasted garlic and chilli in a smoky wok sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "file": "frontend/assets/images/dish-chicken-hakka-noodles.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Hakka Noodles. Authentic Asian dish. Details: Chicken, cabbage and spring onion noodles..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Noodle Bowl",
+      "file": "frontend/assets/images/dish-mushroom-noodle-bowl.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Noodle Bowl. Authentic Asian dish. Details: Shiitake mushrooms, soy and fresh greens.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Schezwan Tofu Noodles",
+      "file": "frontend/assets/images/dish-schezwan-tofu-noodles.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Schezwan Tofu Noodles. Authentic Asian dish. Details: Tofu and noodles in a lively Schezwan sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Prawn Pepper Noodles",
+      "file": "frontend/assets/images/dish-prawn-pepper-noodles.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Prawn Pepper Noodles. Authentic Asian dish. Details: Prawns, pepper and crunchy vegetables..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Masala Dosa",
+      "file": "frontend/assets/images/dish-masala-dosa.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Masala Dosa. Authentic South Indian dish. Details: Crisp rice crepe, potato masala, sambar and chutney.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Ghee Podi Idli",
+      "file": "frontend/assets/images/dish-ghee-podi-idli.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Ghee Podi Idli. Authentic South Indian dish. Details: Steamed rice cakes with ghee and lentil spice powder.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Onion Uttapam",
+      "file": "frontend/assets/images/dish-onion-uttapam.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Onion Uttapam. Authentic South Indian dish. Details: Thick rice pancake with onions and fresh coriander.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Medu Vada",
+      "file": "frontend/assets/images/dish-medu-vada.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Medu Vada. Authentic South Indian dish. Details: Crisp lentil doughnuts with coconut chutney.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "file": "frontend/assets/images/dish-mysore-masala-dosa.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mysore Masala Dosa. Authentic South Indian dish. Details: Red chutney, potato filling and a crisp golden crepe.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Egg Dosa",
+      "file": "frontend/assets/images/dish-egg-dosa.jpg",
+      "cuisine": "South Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Egg Dosa. Authentic South Indian dish. Details: Rice crepe topped with egg, pepper and onions..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Black Bean Tacos",
+      "file": "frontend/assets/images/dish-black-bean-tacos.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Black Bean Tacos. Authentic Mexican dish. Details: Soft tortillas, black beans, pico de gallo and lime.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Burrito",
+      "file": "frontend/assets/images/dish-chicken-burrito.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Burrito. Authentic Mexican dish. Details: Grilled chicken, rice, beans and salsa wrapped warm..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Corn Quesadilla",
+      "file": "frontend/assets/images/dish-corn-quesadilla.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Corn Quesadilla. Authentic Mexican dish. Details: Toasted tortilla, sweet corn and melted cheese.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chipotle Paneer Bowl",
+      "file": "frontend/assets/images/dish-chipotle-paneer-bowl.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chipotle Paneer Bowl. Authentic Mexican dish. Details: Smoky paneer, rice, lettuce and guacamole.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Loaded Nachos",
+      "file": "frontend/assets/images/dish-loaded-nachos.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Loaded Nachos. Authentic Mexican dish. Details: Corn chips, beans, cheese and fresh tomato salsa.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Fish Tacos",
+      "file": "frontend/assets/images/dish-fish-tacos.jpg",
+      "cuisine": "Mexican",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Fish Tacos. Authentic Mexican dish. Details: Crisp fish, cabbage slaw and lime crema..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Avocado Cucumber Maki",
+      "file": "frontend/assets/images/dish-avocado-cucumber-maki.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Avocado Cucumber Maki. Authentic Japanese dish. Details: Sushi rice, nori, avocado and cucumber.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Salmon Sushi Roll",
+      "file": "frontend/assets/images/dish-salmon-sushi-roll.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Salmon Sushi Roll. Authentic Japanese dish. Details: Salmon, sushi rice and nori with ginger..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tofu Teriyaki Bowl",
+      "file": "frontend/assets/images/dish-tofu-teriyaki-bowl.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tofu Teriyaki Bowl. Authentic Japanese dish. Details: Teriyaki tofu, rice and sesame greens.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Katsu Bowl",
+      "file": "frontend/assets/images/dish-chicken-katsu-bowl.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Katsu Bowl. Authentic Japanese dish. Details: Crisp breaded chicken with rice and katsu sauce..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Vegetable Gyoza",
+      "file": "frontend/assets/images/dish-vegetable-gyoza.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Vegetable Gyoza. Authentic Japanese dish. Details: Pan-seared vegetable dumplings with soy dip.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Miso Ramen",
+      "file": "frontend/assets/images/dish-mushroom-miso-ramen.jpg",
+      "cuisine": "Japanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Miso Ramen. Authentic Japanese dish. Details: Miso vegetable broth, noodles and mushrooms.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tofu Green Curry",
+      "file": "frontend/assets/images/dish-tofu-green-curry.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tofu Green Curry. Authentic Thai dish. Details: Coconut, green curry, tofu and jasmine rice; no fish sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Red Curry",
+      "file": "frontend/assets/images/dish-chicken-red-curry.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Red Curry. Authentic Thai dish. Details: Red curry chicken and coconut milk with rice..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Vegetable Pad Thai",
+      "file": "frontend/assets/images/dish-vegetable-pad-thai.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Vegetable Pad Thai. Authentic Thai dish. Details: Rice noodles, tamarind, tofu and peanuts; no egg or fish sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Basil Chicken Rice",
+      "file": "frontend/assets/images/dish-basil-chicken-rice.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Basil Chicken Rice. Authentic Thai dish. Details: Chicken, holy basil and chilli over jasmine rice..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tom Kha Mushroom Soup",
+      "file": "frontend/assets/images/dish-tom-kha-mushroom-soup.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tom Kha Mushroom Soup. Authentic Thai dish. Details: Coconut soup with mushrooms and lemongrass.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mango Sticky Rice",
+      "file": "frontend/assets/images/dish-mango-sticky-rice.jpg",
+      "cuisine": "Thai",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mango Sticky Rice. Authentic Thai dish. Details: Coconut sticky rice and ripe mango.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tofu Bibimbap",
+      "file": "frontend/assets/images/dish-tofu-bibimbap.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tofu Bibimbap. Authentic Korean dish. Details: Vegetables, tofu and rice with egg-free gochujang sauce.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Korean Fried Chicken",
+      "file": "frontend/assets/images/dish-korean-fried-chicken.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Korean Fried Chicken. Authentic Korean dish. Details: Crispy chicken with sweet spicy glaze..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Vegetable Japchae",
+      "file": "frontend/assets/images/dish-vegetable-japchae.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Vegetable Japchae. Authentic Korean dish. Details: Sweet potato noodles with sesame vegetables.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Bulgogi Bowl",
+      "file": "frontend/assets/images/dish-mushroom-bulgogi-bowl.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Bulgogi Bowl. Authentic Korean dish. Details: Soy-marinated mushrooms and steamed rice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Kimchi Rice",
+      "file": "frontend/assets/images/dish-kimchi-rice.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Kimchi Rice. Authentic Korean dish. Details: Fried rice with vegan kimchi and spring onion.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Mandu",
+      "file": "frontend/assets/images/dish-chicken-mandu.jpg",
+      "cuisine": "Korean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Mandu. Authentic Korean dish. Details: Korean chicken dumplings with dipping sauce..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Falafel Pita",
+      "file": "frontend/assets/images/dish-falafel-pita.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Falafel Pita. Authentic Mediterranean dish. Details: Crisp chickpea falafel, tahini and pickled vegetables.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Greek Salad",
+      "file": "frontend/assets/images/dish-greek-salad.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Greek Salad. Authentic Mediterranean dish. Details: Tomato, cucumber, olives and vegetarian feta-style cheese.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Grilled Chicken Plate",
+      "file": "frontend/assets/images/dish-grilled-chicken-plate.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Grilled Chicken Plate. Authentic Mediterranean dish. Details: Lemon chicken, herbed rice and salad..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Roasted Vegetable Couscous",
+      "file": "frontend/assets/images/dish-roasted-vegetable-couscous.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Roasted Vegetable Couscous. Authentic Mediterranean dish. Details: Fluffy couscous and oven-roasted vegetables.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Hummus Mezze",
+      "file": "frontend/assets/images/dish-hummus-mezze.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Hummus Mezze. Authentic Mediterranean dish. Details: Chickpea hummus, olives, pita and fresh vegetables.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Halloumi Wrap",
+      "file": "frontend/assets/images/dish-halloumi-wrap.jpg",
+      "cuisine": "Mediterranean",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Halloumi Wrap. Authentic Mediterranean dish. Details: Vegetarian halloumi-style cheese and crunchy salad.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Falafel Shawarma",
+      "file": "frontend/assets/images/dish-falafel-shawarma.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Falafel Shawarma. Authentic Lebanese dish. Details: Falafel, garlic sauce and pickles in flatbread.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Shawarma",
+      "file": "frontend/assets/images/dish-chicken-shawarma.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Shawarma. Authentic Lebanese dish. Details: Spiced chicken, garlic sauce and pickles..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Hummus & Pita",
+      "file": "frontend/assets/images/dish-hummus-pita.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Hummus & Pita. Authentic Lebanese dish. Details: Silky chickpea hummus with warm pita.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Baba Ganoush",
+      "file": "frontend/assets/images/dish-baba-ganoush.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Baba Ganoush. Authentic Lebanese dish. Details: Smoked aubergine, tahini and lemon with pita.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tabbouleh Bowl",
+      "file": "frontend/assets/images/dish-tabbouleh-bowl.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tabbouleh Bowl. Authentic Lebanese dish. Details: Parsley, bulgur, tomatoes and bright lemon dressing.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Lamb Kofta Plate",
+      "file": "frontend/assets/images/dish-lamb-kofta-plate.jpg",
+      "cuisine": "Lebanese",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Lamb Kofta Plate. Authentic Lebanese dish. Details: Grilled lamb kofta with rice and tahini..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Rainbow Quinoa Bowl",
+      "file": "frontend/assets/images/dish-rainbow-quinoa-bowl.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Rainbow Quinoa Bowl. Authentic Healthy dish. Details: Quinoa, roast vegetables, chickpeas and lemon dressing.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Grilled Chicken Salad",
+      "file": "frontend/assets/images/dish-grilled-chicken-salad.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Grilled Chicken Salad. Authentic Healthy dish. Details: Chicken breast, mixed leaves and mustard dressing..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Avocado Toast",
+      "file": "frontend/assets/images/dish-avocado-toast.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Avocado Toast. Authentic Healthy dish. Details: Smashed avocado, sourdough and cherry tomatoes.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tofu Protein Bowl",
+      "file": "frontend/assets/images/dish-tofu-protein-bowl.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tofu Protein Bowl. Authentic Healthy dish. Details: Tofu, brown rice, greens and sesame dressing.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Beetroot Hummus Bowl",
+      "file": "frontend/assets/images/dish-beetroot-hummus-bowl.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Beetroot Hummus Bowl. Authentic Healthy dish. Details: Beetroot hummus, millet and fresh vegetables.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Roasted Pumpkin Salad",
+      "file": "frontend/assets/images/dish-roasted-pumpkin-salad.jpg",
+      "cuisine": "Healthy",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Roasted Pumpkin Salad. Authentic Healthy dish. Details: Pumpkin, spinach, seeds and balsamic glaze.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chocolate Brownie",
+      "file": "frontend/assets/images/dish-chocolate-brownie.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chocolate Brownie. Authentic Desserts dish. Details: Eggless dark chocolate brownie with toasted walnuts.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Strawberry Cheesecake",
+      "file": "frontend/assets/images/dish-strawberry-cheesecake.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Strawberry Cheesecake. Authentic Desserts dish. Details: Eggless, gelatin-free cheesecake with berry compote.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Gulab Jamun",
+      "file": "frontend/assets/images/dish-gulab-jamun.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Gulab Jamun. Authentic Desserts dish. Details: Milk dumplings in cardamom and rose syrup.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mango Sundae",
+      "file": "frontend/assets/images/dish-mango-sundae.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mango Sundae. Authentic Desserts dish. Details: Vanilla ice cream, mango and crunchy nuts.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "file": "frontend/assets/images/dish-chocolate-lava-cake.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chocolate Lava Cake. Authentic Desserts dish. Details: Eggless chocolate cake with a molten centre.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Pistachio Kulfi",
+      "file": "frontend/assets/images/dish-pistachio-kulfi.jpg",
+      "cuisine": "Desserts",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Pistachio Kulfi. Authentic Desserts dish. Details: Slow-reduced milk, pistachio and saffron.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Butter Croissant",
+      "file": "frontend/assets/images/dish-butter-croissant.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Butter Croissant. Authentic Bakery dish. Details: Flaky butter pastry with an egg-washed finish..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chocolate Croissant",
+      "file": "frontend/assets/images/dish-chocolate-croissant.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chocolate Croissant. Authentic Bakery dish. Details: Butter pastry with chocolate and an egg-washed finish..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Cinnamon Roll",
+      "file": "frontend/assets/images/dish-cinnamon-roll.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Cinnamon Roll. Authentic Bakery dish. Details: Eggless cinnamon swirl with vanilla icing.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Garlic Focaccia",
+      "file": "frontend/assets/images/dish-garlic-focaccia.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Garlic Focaccia. Authentic Bakery dish. Details: Olive oil bread, rosemary and roasted garlic.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Banana Walnut Loaf",
+      "file": "frontend/assets/images/dish-banana-walnut-loaf.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Banana Walnut Loaf. Authentic Bakery dish. Details: Eggless banana loaf with toasted walnuts.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mushroom Puff",
+      "file": "frontend/assets/images/dish-mushroom-puff.jpg",
+      "cuisine": "Bakery",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mushroom Puff. Authentic Bakery dish. Details: Eggless puff pastry filled with savoury mushrooms.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Berry Pancakes",
+      "file": "frontend/assets/images/dish-berry-pancakes.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Berry Pancakes. Authentic Breakfast dish. Details: Eggless pancakes, berry compote and maple syrup.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Masala Omelette Toast",
+      "file": "frontend/assets/images/dish-masala-omelette-toast.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Masala Omelette Toast. Authentic Breakfast dish. Details: Eggs, onion, green chilli and buttered toast..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Peanut Butter Oats",
+      "file": "frontend/assets/images/dish-peanut-butter-oats.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Peanut Butter Oats. Authentic Breakfast dish. Details: Oats, banana and peanut butter.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Poha Bowl",
+      "file": "frontend/assets/images/dish-poha-bowl.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Poha Bowl. Authentic Breakfast dish. Details: Flattened rice, peanuts, curry leaves and lemon.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Waffle & Banana",
+      "file": "frontend/assets/images/dish-waffle-banana.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Waffle & Banana. Authentic Breakfast dish. Details: Eggless waffle with fresh banana and chocolate.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Egg Breakfast Sandwich",
+      "file": "frontend/assets/images/dish-egg-breakfast-sandwich.jpg",
+      "cuisine": "Breakfast",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Egg Breakfast Sandwich. Authentic Breakfast dish. Details: Scrambled eggs, cheese and toasted bread..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Pani Puri Kit",
+      "file": "frontend/assets/images/dish-pani-puri-kit.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Pani Puri Kit. Authentic Street Food dish. Details: Crisp puris, potato, chickpeas and tangy mint water.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Pav Bhaji",
+      "file": "frontend/assets/images/dish-pav-bhaji.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Pav Bhaji. Authentic Street Food dish. Details: Buttery vegetable mash with toasted pav.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Samosa Chaat",
+      "file": "frontend/assets/images/dish-samosa-chaat.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Samosa Chaat. Authentic Street Food dish. Details: Samosa, chickpeas, yogurt and chutneys.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Dahi Puri",
+      "file": "frontend/assets/images/dish-dahi-puri.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Dahi Puri. Authentic Street Food dish. Details: Puris filled with yogurt, chutneys and sev.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Paneer Kathi Roll",
+      "file": "frontend/assets/images/dish-paneer-kathi-roll.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Paneer Kathi Roll. Authentic Street Food dish. Details: Spiced paneer, onions and mint chutney in a wrap.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Kathi Roll",
+      "file": "frontend/assets/images/dish-chicken-kathi-roll.jpg",
+      "cuisine": "Street Food",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Kathi Roll. Authentic Street Food dish. Details: Spiced chicken and onions in a warm wrap..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Crispy Fish & Chips",
+      "file": "frontend/assets/images/dish-crispy-fish-chips.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Crispy Fish & Chips. Authentic Seafood dish. Details: Battered fish, chips and tartare sauce..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Garlic Butter Prawns",
+      "file": "frontend/assets/images/dish-garlic-butter-prawns.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Garlic Butter Prawns. Authentic Seafood dish. Details: Prawns tossed with garlic butter and herbs..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Goan Fish Curry",
+      "file": "frontend/assets/images/dish-goan-fish-curry.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Goan Fish Curry. Authentic Seafood dish. Details: Tangy coconut fish curry with steamed rice..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Pepper Squid",
+      "file": "frontend/assets/images/dish-pepper-squid.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Pepper Squid. Authentic Seafood dish. Details: Squid with pepper, curry leaves and onions..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Prawn Fried Rice",
+      "file": "frontend/assets/images/dish-prawn-fried-rice.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Prawn Fried Rice. Authentic Seafood dish. Details: Prawns, vegetables and wok-fried rice..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Coastal Tofu Curry",
+      "file": "frontend/assets/images/dish-coastal-tofu-curry.jpg",
+      "cuisine": "Seafood",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Coastal Tofu Curry. Authentic Seafood dish. Details: Tofu in a coconut tamarind curry; no seafood ingredients.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Tandoori Paneer Skewers",
+      "file": "frontend/assets/images/dish-tandoori-paneer-skewers.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Tandoori Paneer Skewers. Authentic BBQ dish. Details: Yogurt-marinated paneer, peppers and onions.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Smoked Chicken Wings",
+      "file": "frontend/assets/images/dish-smoked-chicken-wings.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Smoked Chicken Wings. Authentic BBQ dish. Details: Chicken wings with smoky barbecue glaze..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Charred Mushroom Skewers",
+      "file": "frontend/assets/images/dish-charred-mushroom-skewers.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Charred Mushroom Skewers. Authentic BBQ dish. Details: Mushrooms in a garlic herb marinade.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chicken Tikka Plate",
+      "file": "frontend/assets/images/dish-chicken-tikka-plate.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chicken Tikka Plate. Authentic BBQ dish. Details: Chargrilled chicken with mint chutney..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "BBQ Corn Ribs",
+      "file": "frontend/assets/images/dish-bbq-corn-ribs.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: BBQ Corn Ribs. Authentic BBQ dish. Details: Corn strips with smoked paprika and lime.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Lamb Seekh Kebab",
+      "file": "frontend/assets/images/dish-lamb-seekh-kebab.jpg",
+      "cuisine": "BBQ",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Lamb Seekh Kebab. Authentic BBQ dish. Details: Spiced lamb skewers with onions and mint..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "file": "frontend/assets/images/dish-iced-vanilla-latte.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Iced Vanilla Latte. Authentic Beverages dish. Details: Espresso, milk, vanilla and ice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mango Lassi",
+      "file": "frontend/assets/images/dish-mango-lassi.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mango Lassi. Authentic Beverages dish. Details: Mango blended with chilled yogurt.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Cold Brew Coffee",
+      "file": "frontend/assets/images/dish-cold-brew-coffee.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Cold Brew Coffee. Authentic Beverages dish. Details: Slow-steeped coffee served over ice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "file": "frontend/assets/images/dish-strawberry-milkshake.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Strawberry Milkshake. Authentic Beverages dish. Details: Strawberry, milk and vanilla ice cream.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mint Lime Cooler",
+      "file": "frontend/assets/images/dish-mint-lime-cooler.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mint Lime Cooler. Authentic Beverages dish. Details: Fresh lime, mint and sparkling water.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Chocolate Frappe",
+      "file": "frontend/assets/images/dish-chocolate-frappe.jpg",
+      "cuisine": "Beverages",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Chocolate Frappe. Authentic Beverages dish. Details: Chocolate, coffee, milk and crushed ice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Kolkata Chicken Biryani",
+      "file": "frontend/assets/images/dish-kolkata-chicken-biryani.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Kolkata Chicken Biryani. Authentic Bengali dish. Details: Fragrant rice, chicken, potato and subtle spices..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Luchi & Aloo Dum",
+      "file": "frontend/assets/images/dish-luchi-aloo-dum.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Luchi & Aloo Dum. Authentic Bengali dish. Details: Puffed bread with a spiced potato curry.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Cholar Dal & Rice",
+      "file": "frontend/assets/images/dish-cholar-dal-rice.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Cholar Dal & Rice. Authentic Bengali dish. Details: Bengal gram, coconut and steamed rice.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Shorshe Fish",
+      "file": "frontend/assets/images/dish-shorshe-fish.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Shorshe Fish. Authentic Bengali dish. Details: Fish steamed with mustard and green chilli..  Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Vegetable Chop",
+      "file": "frontend/assets/images/dish-vegetable-chop.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Vegetable Chop. Authentic Bengali dish. Details: Beetroot and vegetable croquettes with kasundi.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mishti Doi",
+      "file": "frontend/assets/images/dish-mishti-doi.jpg",
+      "cuisine": "Bengali",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mishti Doi. Authentic Bengali dish. Details: Traditional caramelised sweet yogurt.. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Garden Vegetable Biryani",
+      "file": "frontend/assets/images/dish-garden-vegetable-biryani.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Garden Vegetable Biryani. Authentic Indian dish. Details: Garden Vegetable Biryani. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Saffron Rice Bowl",
+      "file": "frontend/assets/images/dish-saffron-rice-bowl.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Saffron Rice Bowl. Authentic Indian dish. Details: Saffron Rice Bowl. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Family Paneer Biryani",
+      "file": "frontend/assets/images/dish-family-paneer-biryani.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Family Paneer Biryani. Authentic Indian dish. Details: Family Paneer Biryani. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Basil & Mozzarella Pizza",
+      "file": "frontend/assets/images/dish-basil-mozzarella-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Basil & Mozzarella Pizza. Authentic Italian dish. Details: Basil & Mozzarella Pizza. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Double Cheese Paneer Burger",
+      "file": "frontend/assets/images/dish-double-cheese-paneer-burger.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Double Cheese Paneer Burger. Authentic Burgers dish. Details: Double Cheese Paneer Burger. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Paneer Burger & Fries",
+      "file": "frontend/assets/images/dish-paneer-burger-fries.jpg",
+      "cuisine": "Burgers",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Paneer Burger & Fries. Authentic Burgers dish. Details: Paneer Burger & Fries. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Noodles & Dumplings",
+      "file": "frontend/assets/images/dish-noodles-dumplings.jpg",
+      "cuisine": "Asian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Noodles & Dumplings. Authentic Asian dish. Details: Noodles & Dumplings. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Charred Paneer Rice Bowl",
+      "file": "frontend/assets/images/dish-charred-paneer-rice-bowl.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Charred Paneer Rice Bowl. Authentic Indian dish. Details: Charred Paneer Rice Bowl. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mint & Saffron Bowl",
+      "file": "frontend/assets/images/dish-mint-saffron-bowl.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mint & Saffron Bowl. Authentic Indian dish. Details: Mint & Saffron Bowl. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Biryani Feast for Two",
+      "file": "frontend/assets/images/dish-biryani-feast-for-two.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Biryani Feast for Two. Authentic Indian dish. Details: Biryani Feast for Two. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Seasonal Rice Special",
+      "file": "frontend/assets/images/dish-seasonal-rice-special.jpg",
+      "cuisine": "Indian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Seasonal Rice Special. Authentic Indian dish. Details: Seasonal Rice Special. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Rustic Tomato Pizza",
+      "file": "frontend/assets/images/dish-rustic-tomato-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Rustic Tomato Pizza. Authentic Italian dish. Details: Rustic Tomato Pizza. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Basil Garden Pizza",
+      "file": "frontend/assets/images/dish-basil-garden-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Basil Garden Pizza. Authentic Italian dish. Details: Basil Garden Pizza. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Mozzarella Sourdough Pizza",
+      "file": "frontend/assets/images/dish-mozzarella-sourdough-pizza.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Mozzarella Sourdough Pizza. Authentic Italian dish. Details: Mozzarella Sourdough Pizza. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    },
+    {
+      "name": "Large Margherita",
+      "file": "frontend/assets/images/dish-large-margherita.jpg",
+      "cuisine": "Italian",
+      "prompt": "Use case: product-mockup. Asset type: one premium food-delivery menu photograph for QuickBite. Subject: Large Margherita. Authentic Italian dish. Details: Large Margherita. Vegetarian dish: no meat or fish. Show this specific recipe, not a generic cuisine platter. Beautiful realistic natural food photography, appetizing textures, clean warm ivory tabletop and an appropriate ceramic plate or bowl (a clear glass for drinks), soft window daylight, gentle shadows. One complete serving, the defining ingredients clearly visible. Square composition, food centered, entire dish visible, generous margin on all four sides so a landscape thumbnail crop still contains the food. Slightly elevated three-quarter camera angle. No text, no labels, no watermarks, no brand logo, no people, no collage. Distinguish this dish from other recipes through its actual ingredients and presentation."
+    }
+  ]
+}

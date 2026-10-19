@@ -1,0 +1,1 @@
+PostgreSQL runs with a named persistent volume. Schema changes are owned by Alembic, not entrypoint SQL. Use scripts/start.sh to run one deliberate migration and seed operation before starting application processes.

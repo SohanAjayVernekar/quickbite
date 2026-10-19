@@ -1,0 +1,1 @@
+These test sources were authored but were NOT run, per the implementation-only request. They require an isolated real PostgreSQL database named quickbite_test and a separate RabbitMQ instance. See scripts/tests.sh. The fixture truncates only that explicitly named test database. Crash, broker outage, and scaling are separate scripts, not claimed automated test passes.
